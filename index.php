@@ -1,2 +1,2 @@
 <?php
-echo 'chào php deploy lên heroku';
+echo 'hi nqc2912';
