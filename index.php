@@ -12,8 +12,8 @@ class Student
     }
 
        // phương thức bình thường
-    public function $name(){
-       echo $name => $this;
+    public function (){
+       echo $name ;
 }
 
 }
